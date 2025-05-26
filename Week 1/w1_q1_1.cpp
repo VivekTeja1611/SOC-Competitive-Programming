@@ -1,16 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    int n; 
+    long long n; 
     cin>>n;
-    set<int> s;
-    int m=n;
+    set<long long> s;
+    long long m=n;
    while(m>0){
     s.insert(m);
     m--;
    }
     while(n>1){
-        int x;
+        long long x;
       cin>>x; 
       s.erase(x);
       n--;
