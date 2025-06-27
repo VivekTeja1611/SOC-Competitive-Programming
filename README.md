@@ -26,11 +26,6 @@ This repository tracks my journey through the **Summer of Code (SOC)** Competiti
   - DP on Grids
   - Edit Distance and advanced DP optimizations
 
-### ✅ Graph Algorithms:
-- Basic understanding of:
-  - DFS and BFS
-  - Cycle detection
-
 ### ✅ Number Theory & Advanced Topics:
 - **Modular Exponentiation**: Fast exponentiation under modulus using divide-and-conquer
 - **Divisor Summation**: Efficient divisor summation using multiples and nested loops
@@ -54,7 +49,7 @@ This repository tracks my journey through the **Summer of Code (SOC)** Competiti
 **Focus:** STL Algorithms & Containers, Two Pointers, Sliding Window, Hash Maps, Median Logic
 
 ### Week 3: Greedy, DP & Advanced Techniques
-**Problems Solved:** Movie Festival, Factory Machines, Coin Combinations I, Edit Distance, Dice Combinations, Tasks and Deadlines, Projects  
+**Problems Solved:** Tasks and deadline, Factory Machines, Dice Combinations I, Edit Distance, counting Towers, stick division, Sequences
 **Focus:** Greedy Algorithms, Dynamic Programming, Amortized Analysis, Bit Manipulation
 
 ### Week 4: Number Theory & Combinatorics
