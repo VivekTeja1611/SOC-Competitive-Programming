@@ -22,7 +22,6 @@ This repository tracks my journey through the **Summer of Code (SOC)** Competiti
 ### ✅ Dynamic Programming (DP):
 - Solved basic DP problems involving:
   - Fibonacci numbers
-  - 0/1 Knapsack
   - Longest Increasing Subsequence (LIS)
   - DP on Grids
   - Edit Distance and advanced DP optimizations
@@ -31,8 +30,6 @@ This repository tracks my journey through the **Summer of Code (SOC)** Competiti
 - Basic understanding of:
   - DFS and BFS
   - Cycle detection
-  - Connected components
-  - Intro to Dijkstra's algorithm
 
 ### ✅ Number Theory & Advanced Topics:
 - **Modular Exponentiation**: Fast exponentiation under modulus using divide-and-conquer
