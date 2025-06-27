@@ -73,6 +73,8 @@ This repository tracks my journey through the **Summer of Code (SOC)** Competiti
 **Biggest Challenge:** Understanding the transition from greedy approaches to dynamic programming solutions, especially in optimization problems.
 
 **Coding Skills Development:** Improved speed and accuracy in writing C++ code, better constraint analysis, and enhanced time management in contests.
+
+
 ---
 
 ## 🙋‍♂️ About
