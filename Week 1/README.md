@@ -17,30 +17,30 @@
 
 ### ✅ Questions to be Submitted:
 1. [Missing Number](https://cses.fi/problemset/task/1083) (w1_q1.cpp)  
-  <!-- [🔗 Solution](https://www.geeksforgeeks.org/missing-number-cses/) -->
+   [🔗 Solution](https://www.geeksforgeeks.org/missing-number-cses/) 
 2. [Repetitions](https://cses.fi/problemset/task/1069) (w1_q2.cpp)  
- <!--  [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-repetitions/) -->
+   [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-repetitions/) 
 3. [Coins](https://codeforces.com/problemset/problem/1814/A) (w1_q3.cpp)  
- <!--  [🔗 Solution](https://codeforces.com/blog/entry/114854) -->
+   [🔗 Solution](https://codeforces.com/blog/entry/114854)
 4. [Lucky Numbers](https://codeforces.com/problemset/problem/1808/A) (w1_q4.cpp)  
- <!--  [🔗 Solution](https://codeforces.com/blog/entry/114523) -->
+   [🔗 Solution](https://codeforces.com/blog/entry/114523) 
 5. [Weird Algorithm](https://cses.fi/problemset/task/1068) (w1_q5.cpp)  
-<!--   [🔗 Solution](https://www.geeksforgeeks.org/weird-algorithm/) -->
+   [🔗 Solution](https://www.geeksforgeeks.org/weird-algorithm/) 
 
 ---
 
 ### 🏋️ Practice Questions:
 1. [Increasing Array](https://cses.fi/problemset/task/1094)  
-   <!--[🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-increasing-array/)-->
+   [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-increasing-array/)
 2. [Towers of Hanoi](https://cses.fi/problemset/task/2165)  
- <!--  [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-tower-of-hanoi/)-->
+   [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-tower-of-hanoi/)
 3. [Coin Piles](https://cses.fi/problemset/task/1754)  
- <!--  [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-coin-piles/)-->
+   [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-coin-piles/)
 4. [Walking Master](https://codeforces.com/problemset/problem/1806/A)  
-  <!-- [🔗 Solution](https://codeforces.com/blog/entry/114048)-->
+   [🔗 Solution](https://codeforces.com/blog/entry/114048)
 5. [Two Knights](https://cses.fi/problemset/task/1072)  
-  <!-- [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-two-knights/)-->
-You can solve the problems under the sections 'Introductory Problems' and 'Sorting and Searching' in CSES to practice more!
+   [🔗 Solution](https://www.geeksforgeeks.org/cses-solutions-two-knights/)
+You can solve the problems under the sections 'Introductory Problems' in CSES to practice more!
 
 ---
 
